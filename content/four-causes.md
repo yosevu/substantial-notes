@@ -6,9 +6,9 @@ id: four-causes
 
 ## What
 
-The four causes are were described by Aristotle as four different ways to answer the question "why?" or "for what reason?" or "because of what"?
+The four causes were described by Aristotle as four different ways to answer the question "why?" or "for what reason?" or "because of what"?
 
-Inspired by [Heidegger's description of the four causes](https://en.wikipedia.org/wiki/Four_causes#Technology_(Heidegger's_four_causes)) 
+Inspired by [Heidegger's description of the four causes](https://en.wikipedia.org/wiki/Four_causes#Technology_(Heidegger's_four_causes) ) 
 
 ### 1. Material cause
 

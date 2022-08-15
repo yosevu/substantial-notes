@@ -2,7 +2,7 @@ heading: Literate programming makes code accessible
 date: 2022-08-15
 id: literate-programming-makes-code-accessible
 
-# Literate programming makes code more accessible
+# Literate programming makes code accessible
 
 ## What
 
@@ -13,6 +13,10 @@ You can understand code [on two levels](/two-levels-of-understanding): shallow a
 ## Why
 
 Natural language is essential for understanding code because it is [what our brains do best](/what-brains-are-good-for) and it is fundamental to how we think and use language for the most kind of communication: human-to-human. 
+
+## Examples
+
+- [My Doom Emacs literate configuration](https://github.com/yosevu/dotfiles/blob/main/dot_doom.d/config.org)
 
 ## Sources
 
