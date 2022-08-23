@@ -1,6 +1,5 @@
 {:deps
- {io.github.yosevu/substantial {:git/tag "v0.0.1" :git/sha "09cdc19"}}
-
+ {io.github.yosevu/substantial {:git/tag "v0.0.2" :git/sha "eef653f"}}
  :aliases
  {:create
   {:exec-fn substantial.core/create}
