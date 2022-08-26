@@ -88,18 +88,6 @@ nav, article {
   max-width: 25rem;
 }
 
-article li {
-  display: flex;
-  flex-direction: column;
-}
-
-@media screen and (min-width: 560px) {
-  article li {
-    flex-direction: row;
-    justify-content: space-between;
-  }
-}
-
 aside {
   max-width: 20rem;
   margin: 2rem;
@@ -297,9 +285,19 @@ img {
   }
 }
 
-/* Custom Classes */
+/* Custom Styles */
+.index-links {
+  padding: 0;
+}
 
-.item-container {
+.index-link {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 560px) {
+  .index-link {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
